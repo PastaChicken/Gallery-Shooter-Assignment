@@ -1,5 +1,7 @@
-**Build A Monster**
+**Gallery Shooter Assignment**
 
-Template code for displaying sprites from a spritesheet Atlas (XML) using Phaser 3.
+This Repo contains all my code that I used to make my Gallery Shooter for Submission 2B 
 
-Uses Kenny Assets "[Monster Builder Pack](https://kenney.nl/assets/monster-builder-pack)" set, with gratitude.
+Uses Kenny Assets that was provided from in canvas.
+
+Submission is by Alfredo Barragan for CMPM 120
